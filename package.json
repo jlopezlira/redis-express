@@ -1,13 +1,17 @@
 {
   "name": "redis",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Express API using Redis for cache data",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon ./src/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "redis",
+    "nodejs",
+    "express"
+  ],
   "author": "jlopezlira <jlopezlira@gmail.com> (https://jlopezlira.me/)",
   "license": "ISC",
   "dependencies": {
